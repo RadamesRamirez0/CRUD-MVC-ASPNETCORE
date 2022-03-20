@@ -2026,11 +2026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/radamesramirez/Documents/asp/crudapi/crudapi.csproj",
+      "projectUniqueName": "/Users/radamesramirez/Documents/crudapi/crudapi.csproj",
       "projectName": "crudapi",
-      "projectPath": "/Users/radamesramirez/Documents/asp/crudapi/crudapi.csproj",
+      "projectPath": "/Users/radamesramirez/Documents/crudapi/crudapi.csproj",
       "packagesPath": "/Users/radamesramirez/.nuget/packages/",
-      "outputPath": "/Users/radamesramirez/Documents/asp/crudapi/obj/",
+      "outputPath": "/Users/radamesramirez/Documents/crudapi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/radamesramirez/.nuget/NuGet/NuGet.Config"
